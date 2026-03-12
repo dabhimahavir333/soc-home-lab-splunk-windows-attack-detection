@@ -1,0 +1,4 @@
+EventCode=3
+| stats dc(DestinationPort) as unique_ports by SourceIp
+| where unique_ports > 5
+| sort -unique_ports

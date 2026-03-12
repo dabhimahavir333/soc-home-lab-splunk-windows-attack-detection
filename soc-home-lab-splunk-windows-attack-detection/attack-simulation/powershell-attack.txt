@@ -1,0 +1,4 @@
+powershell -nop -w hidden -Command "whoami"
+
+Purpose:
+Simulate suspicious PowerShell activity.

@@ -1,0 +1,4 @@
+EventCode=1
+| search Image="*powershell.exe"
+| search CommandLine="*-nop*" OR CommandLine="*-w hidden*"
+| table _time Computer CommandLine ParentImage

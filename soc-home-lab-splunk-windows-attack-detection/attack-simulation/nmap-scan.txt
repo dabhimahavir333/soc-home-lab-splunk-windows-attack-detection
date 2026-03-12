@@ -1,0 +1,7 @@
+Attacker Machine: Kali Linux
+
+Command Used:
+nmap -sS 192.168.31.198
+
+Purpose:
+Simulate port scanning attack against Windows victim.
