@@ -7,75 +7,48 @@ and detects them using Splunk SIEM.
 Lab Architecture:
 
 Kali Linux (Attacker)
-
-      ↓
-
+↓
 Windows 10 (Victim)
-
-      ↓
-
+↓
 Sysmon Endpoint Telemetry
-
-      ↓
-
+↓
 Splunk Universal Forwarder
-
-      ↓
-
+↓
 Splunk SIEM
-
-      ↓
-
+↓
 Detection Queries \& Alerts
 
 
+Technologies Used :
 
-Technologies Used
-
-\- Splunk Enterprise
-
-\- Sysmon
-
-\- Kali Linux
-
-\- Windows 10
-
-\- Nmap
-
-\- PowerShell
+Splunk Enterprise
+Sysmon
+Kali Linux
+Windows 10
+Nmap
+PowerShell
 
 
+Attack Simulations :
 
-Attack Simulations
-
-\- Nmap Port Scanning
-
-\- Suspicious PowerShell Execution
+Nmap Port Scanning
+Suspicious PowerShell Execution
 
 
+Detection Rules :
 
-Detection Rules
-
-\- Port Scan Detection
-
-\- PowerShell Attack Detection
-
-\- Process Execution Monitoring
-
-\- Network Connection Monitoring
-
+Port Scan Detection
+PowerShell Attack Detection
 
 
 Outcome
 
-This lab demonstrates SOC analyst skills including log analysis,
-
-attack detection, and SIEM investigation.
-
+This lab demonstrates SOC analyst skills including log analysis, attack detection, and SIEM investigation.
 
 
 Author
 
 Mahavirsinh Dabhi
+
 
 
