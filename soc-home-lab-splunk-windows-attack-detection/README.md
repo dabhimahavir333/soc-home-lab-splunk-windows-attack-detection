@@ -188,10 +188,8 @@ Example:
 
 ```
 screenshots/
-01-sysmon-logs-ingested.png
-02-network-events.png
-03-port-scan-detection.png
-04-powershell-detection.png
+01-port-scan-detection.png
+02-powershell-detection.png
 ```
 
 ---
@@ -226,5 +224,3 @@ Possible enhancements for this lab include:
 Mahavirsinh Dabhi
 Cybersecurity Enthusiast | SOC Analyst Aspirant
 
-GitHub: https://github.com/dabhimahavir333
-LinkedIn: https://www.linkedin.com/in/mahavirsinh-dabhi-906157299/
